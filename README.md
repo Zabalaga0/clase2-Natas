@@ -1,5 +1,6 @@
 # clase2-Natas
 Ejercicios de OverTheWire Natas
+<<<<<<< HEAD
 ### level 0
 usuario: natas0
 
@@ -140,3 +141,5 @@ contraseña:
 usuario: natas34
  
 contraseña: 
+=======
+>>>>>>> d2e54a26b27c2f2118f9393ca76c83b61eb3254a
